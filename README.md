@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naumanr327 or better knwn as Nauman Rafique 
+- 👋 Hi, I’m @naumanrafique or better knwn as Nauman Rafique 
 - 👀 I’m interested in neuromorphic computing and AI energy efficiency 
 - 🌱 I’m currently learning about AI tools
 - 💞️ I’m looking to collaborate on neuromorphic computing and efficient AI
